@@ -1,0 +1,30 @@
+button{
+    background-color: lightblue;
+    border: none;
+    color: black;
+    text-align: center;
+    width: 20dvw;
+    height: 40px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: cyan;
+}
+.nav{
+    display: table;
+    width: 100vw;
+}
+p{
+    font-size: 20px;
+}
+.contact{
+    font-size: 30px;
+}
+body{
+    background-color: lightblue;
+}
+.home{
+    text-align: center;
+}
